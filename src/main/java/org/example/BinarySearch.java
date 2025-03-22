@@ -3,7 +3,6 @@ package org.example;
 /**
  * Implementação de Busca Binária com versões iterativa e recursiva
  *
- * @author SeuNome
  * @version 1.0
  * @since 2024-03-20
  */
